@@ -1,0 +1,28 @@
+.footer {
+  background-color: rgb(44,43,43);
+  text-align: center;
+  padding: 60px;
+}
+
+.list-inline li {
+  display: inline;
+}
+
+.footer p {
+  color: white;
+}
+
+.footer .fab {
+  font-size: 30px;
+  width: 1.3em;
+  color: rgb(106,213,139);
+  transition: 0.2s;
+}
+
+.footer .fas {
+  color: red;
+}
+
+.footer .fab:hover {
+  transform: scale(1.3);
+}

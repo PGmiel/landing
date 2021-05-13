@@ -1,0 +1,53 @@
+.btn-medium {
+  background-color rgb(194,194,194);
+  border-radius: 50px;
+  border: 1px solid rgb(194,194,194);
+  color: rgb(194,194,194);
+  padding: 12px 20px;
+  opacity: 0.8;
+}
+
+.btn-medium:hover {
+  color: rgb(145,145,145);
+  border: 1px solid rgb(145,145,145);
+}
+
+.btn-treehouse {
+  background-color: rgb(106,213,139);
+  color: white;
+  font-weight: bold;
+  border-radius: 5px;
+  padding: 15px 20px;
+  opacity: 0.9;
+}
+
+.btn-treehouse {
+  background-color: rgb(106,213,139);
+  color: white;
+  font-weight: bold;
+  border-radius: 5px;
+  padding: 12px 20px;
+}
+
+.btn-treehouse:hover {
+  background-color: rgb(85,180,114);
+  transition: 0.2s;
+}
+
+.btn-yours {
+  background-color: rgb(106,213,139);
+  box-shadow: inset 10px 0.5em rgb(194,194,194);
+  color: white;
+  font-weight: bold;
+  letter-spacing: 1px;
+  border-radius: 5px;
+  padding: 12px 20px;
+  transition: 0.5s;
+}
+
+.btn-yours:hover {
+  background-color: rgb(194,194,194);
+  box-shadow: inset 3em 2em rgb(106,213,139);
+}
+
+/*rgb(196,95,95)*/
